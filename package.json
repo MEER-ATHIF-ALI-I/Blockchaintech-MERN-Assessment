@@ -2,7 +2,7 @@
   "name": "mern-assessment",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "engines": {
     "node": "16.8.0",
     "npm": "7.21.0"
